@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/pubsub?activeTab=versions
 
+### [2.8.1](https://www.github.com/googleapis/nodejs-pubsub/compare/v2.8.0...v2.8.1) (2021-01-20)
+
+
+### Bug Fixes
+
+* bind promisify calls for flush() so they have a 'this' value ([#1184](https://www.github.com/googleapis/nodejs-pubsub/issues/1184)) ([e494fb7](https://www.github.com/googleapis/nodejs-pubsub/commit/e494fb7303ae58b08f3f75aa87ea1f10c86f648e))
+
 ## [2.8.0](https://www.github.com/googleapis/nodejs-pubsub/compare/v2.7.0...v2.8.0) (2021-01-08)
 
 
